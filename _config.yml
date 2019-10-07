@@ -11,12 +11,12 @@ email: neerajsewanisrt8@gmail.com
 
 # Social links
 # twitter_username: jekyllrb
-# github_username:  jekyll
+github_username:  https://github.com/neer17
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jekyll
-# linkedin_username: jekyll
+linkedin_username: http://bit.ly/Neeraj_Sewani
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: jekyll
@@ -26,13 +26,8 @@ email: neerajsewanisrt8@gmail.com
 # about_title: About Me (Use this to override about section title)
 about_profile_image: ./images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  This is an awesome desc.
-
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - Links
-    - Images
+  Started by programming journey as an Android developer two years ago and now from last six months working on apps following the best practices of Android like using MVVM architecture and Kotlin for coding. Moreover, in parallel to Android apps 
+  I have been learning and developing Web apps in MERN stack from last one and a half year.
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
@@ -46,9 +41,7 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+  Apart from working on my core areas I dedicate my sundays on exploring new programming languages and technologies. And apart from tech I recently discovered my interest in nutrition and fitness  
 
 # Footer
 footer_show_references: true
