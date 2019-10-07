@@ -10,20 +10,20 @@ phone: Your phone number (optional)
 website: Your website (eg. https://google.com)(optional)
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-googleplus_username: +jekyll
+# twitter_username: jekyllrb
+# github_username:  jekyll
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: jekyll
+# linkedin_username: jekyll
+# xing_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: jekyll
+# googleplus_username: +jekyll
 
 # About Section
-# about_title: About Me (Use this to override about section title)
+about_title: About Me overriden (Use this to override about section title)
 about_profile_image: images/profile_image
 about_content: | # this will include new lines to allow paragraphs
 Hi, my name’s Neeraj and I’m a Web and Google Associate Android developer. I have been making Android apps from last two years and web apps from last one and a half years in MERN stack. I am looking forward to join an organization where the opportunity for growth is embraced.
