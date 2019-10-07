@@ -6,8 +6,8 @@ repository: Git repository where your resume will be hosted, only required if yo
 name: Neeraj Sewani
 title: Android and Web dev
 email: neerajsewanisrt8@gmail.com
-phone: Your phone number (optional)
-website: Your website (eg. https://google.com)(optional)
+# phone: Your phone number (optional)
+# website: Your website (eg. https://google.com)(optional)
 
 # Social links
 # twitter_username: jekyllrb
@@ -24,7 +24,7 @@ website: Your website (eg. https://google.com)(optional)
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   This is an awesome desc.
 
