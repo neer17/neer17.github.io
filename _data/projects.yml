@@ -22,7 +22,7 @@
     1) The bot tweets memes 24*7 and is deployed on Heroku.
     2) It curates the best memes then filter them to check for duplicates and finally tweets them with the caption.
 
-  - layout: top-middle
+- layout: top-middle
   name: Deliti - A file sharing app
   link: http://bit.ly/File_Sharing_App
   github: https://github.com/neer17/file-sharing-front-end
