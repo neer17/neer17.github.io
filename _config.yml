@@ -15,7 +15,7 @@ github_username:  https://github.com/neer17
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-# instagram_username: jekyll
+instagram_username: http://bit.ly/neer17_StackOverflow
 linkedin_username: http://bit.ly/Neeraj_Sewani
 # xing_username: jekyll
 # pinterest_username: jekyll
@@ -44,7 +44,7 @@ more_content: | # this will include new lines to allow paragraphs
   Apart from working on my core areas I dedicate my sundays on exploring new programming languages and technologies. And apart from tech I recently discovered my interest in nutrition and fitness  
 
 # Footer
-footer_show_references: true
+# footer_show_references: true
 
 # Build settings
 # theme: modern-resume-theme (Use this is you are hosting your resume yourself)
