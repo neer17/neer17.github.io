@@ -25,13 +25,13 @@ googleplus_username: +jekyll
 # About Section
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile_image
-about_content: | # this will include new lines to allow paragraphs
-Hi, my name’s Neeraj and I’m a Web and Google Associate Android developer. I have been making Android apps from last two years and web apps from last one and a half years in MERN stack. I am looking forward to join an organization where the opportunity for growth is embraced.
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - Links
-    - Images
+# about_content: | # this will include new lines to allow paragraphs
+# Hi, my name’s Neeraj and I’m a Web and Google Associate Android developer. I have been making Android apps from last two years and web apps from last one and a half years in MERN stack. I am looking forward to join an organization where the opportunity for growth is embraced.
+#   You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
+#     - Lists
+#     - Tables
+#     - Links
+#     - Images
 
 # Projects Section
 projects_title_1: aChatBox
