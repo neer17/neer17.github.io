@@ -3,7 +3,7 @@
   {% for project in site.data.projects %}
     {% include {{ project.layout | default: 'left' | append: ".html" }} item=project %}
   {% endfor %}
-  <h3>{{ site.projects_title_2 | default: "Projects" }}</h3>
+  <h4>{{ site.projects_title_2 | default: "Projects" }}</h4>
   {% for project in site.data.projects %}
     {% include {{ project.layout | default: 'left' | append: ".html" }} item=project %}
   {% endfor %}
