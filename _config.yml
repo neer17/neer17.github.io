@@ -3,9 +3,9 @@ repository: Git repository where your resume will be hosted, only required if yo
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
+name: Neeraj Sewani
+title: Android and Web dev(MERN)
+email: neerajsewanisrt8@gmail.com
 phone: Your phone number (optional)
 website: Your website (eg. https://google.com)(optional)
 
@@ -24,10 +24,9 @@ googleplus_username: +jekyll
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/profile_image
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
+Hi, my name’s Neeraj and I’m a Web and Google Associate Android developer. I have been making Android apps from last two years and web apps from last one and a half years in MERN stack. I am looking forward to join an organization where the opportunity for growth is embraced.
   You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
     - Lists
     - Tables
@@ -35,13 +34,16 @@ about_content: | # this will include new lines to allow paragraphs
     - Images
 
 # Projects Section
-# projects_title: Projects #(Use this to override about projects section title)
+projects_title_1: aChatBox
+projects_title_2: Twitter Bot
+projects_title_2: Deliti - A file sharing app
+
 
 # Experience Section
-# experience_title: Experience #(Use this to override about experience section title)
+experience_title: I have been making Android apps from two years and web apps from last one and a half years in MERN stack.
 
 # Education Section
-# education_title: Education #(Use this to override about education section title)
+education_title: B.TECH(2016 - 2020) from JECRC Foundation
 
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
