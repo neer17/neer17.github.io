@@ -13,10 +13,22 @@
     5) Its a group project with a friend Shiv Sharma.
 
 - layout: top-middle
-  name: aChatbox
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  name: Twitter Bot
+  link: http://bit.ly/TwitterBot_1
+  github: https://github.com/neer17/TwitterBot
   quote: >
-    Short overview of the project (optional)
+    A meme bot 
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    1) The bot tweets memes 24*7 and is deployed on Heroku.
+    2) It curates the best memes then filter them to check for duplicates and finally tweets them with the caption.
+
+  - layout: top-middle
+  name: Deliti - A file sharing app
+  link: http://bit.ly/File_Sharing_App
+  github: https://github.com/neer17/file-sharing-front-end
+  quote: >
+    A meme bot 
+  description: | # this will include new lines to allow paragraphs
+    1) The bot tweets memes 24*7 and is deployed on Heroku.
+    2) It curates the best memes then filter them to check for duplicates and finally tweets them with the caption.
+
