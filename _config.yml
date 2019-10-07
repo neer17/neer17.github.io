@@ -3,8 +3,8 @@ repository: Git repository where your resume will be hosted, only required if yo
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Neera Sewani
-title: Android and Web dev(MERN)
+name: Neeraj Sewani
+title: Android and Web dev
 email: neerajsewanisrt8@gmail.com
 phone: Your phone number (optional)
 website: Your website (eg. https://google.com)(optional)
@@ -23,22 +23,25 @@ website: Your website (eg. https://google.com)(optional)
 # googleplus_username: +jekyll
 
 # About Section
-about_title: About Me overriden (Use this to override about section title)
-about_profile_image: images/profile_image
+# about_title: About Me (Use this to override about section title)
+about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-Hi, my name’s Neeraj and I’m a Web and Google Associate Android developer. I have been making Android apps from last two years and web apps from last one and a half years in MERN stack. I am looking forward to join an organization where the opportunity for growth is embraced.
+  This is an awesome desc.
+
+  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
+    - Lists
+    - Tables
+    - Links
+    - Images
 
 # Projects Section
-projects_title_1: aChatBox
-projects_title_2: Twitter Bot
-projects_title_2: Deliti - A file sharing app
-
+# projects_title: Projects #(Use this to override about projects section title)
 
 # Experience Section
-experience_title: I have been making Android apps from two years and web apps from last one and a half years in MERN stack.
+# experience_title: Experience #(Use this to override about experience section title)
 
 # Education Section
-education_title: B.TECH(2016 - 2020) from JECRC Foundation
+# education_title: Education #(Use this to override about education section title)
 
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
