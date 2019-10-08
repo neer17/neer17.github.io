@@ -24,7 +24,7 @@ linkedin_username: neeraj-sewani-721a39b7
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: ./../../images/profile.jpg
+about_profile_image: ./../images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Started by programming journey as an Android developer two years ago and now from last six months working on apps following the best practices of Android like using MVVM architecture and Kotlin for coding. Moreover, in parallel to Android apps 
   I have been learning and developing Web apps in MERN stack from last one and a half year.
