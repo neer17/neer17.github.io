@@ -10,7 +10,7 @@
     2) Real-time Database, Storage, Authentication and Cloud Functions are used in backend along with enforcement of strict security rules to make it secure.
     3) It incorporates enticing features of Facebook and WhatsApp like searching users, sending them friend requests, and sharing media, location etc. with friends.
     4) Firebase cloud functions are used to notify users of friend requests and messages.
-    5) Its a group project with a friend Shiv Sharma.
+    5) Its a group project with a friend <a href="#">Shiv Sharma</a>.
 
 - layout: top-middle
   name: Twitter Bot
@@ -27,8 +27,10 @@
   link: http://bit.ly/File_Sharing_App
   github: https://github.com/neer17/file-sharing-front-end
   quote: >
-    A meme bot 
+    A File sharing app
   description: | # this will include new lines to allow paragraphs
-    1) The bot tweets memes 24*7 and is deployed on Heroku.
-    2) It curates the best memes then filter them to check for duplicates and finally tweets them with the caption.
+    1) The app can share file with any format and the recipient would get those files in their email inboxes.
+    2) React.JS is used for the front-end, Node.JS for back-end, MongoDB for database and AWS S3 as storage for files.
+    3) Authentication is enforced before sending files
+
 

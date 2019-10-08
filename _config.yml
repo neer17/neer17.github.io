@@ -4,7 +4,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 
 # Personal info
 name: Neeraj Sewani
-title: Android and Web dev
+title: Android and MERN Stack Web developer
 email: neerajsewanisrt8@gmail.com
 # phone: Your phone number (optional)
 # website: Your website (eg. https://google.com)(optional)
@@ -15,7 +15,8 @@ github_username:  neer17
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: users/7379765/neer17
+# Its stackoverflow
+instagram_username: users/7379765/neer17  
 linkedin_username: neeraj-sewani-721a39b7
 # xing_username: jekyll
 # pinterest_username: jekyll
@@ -26,8 +27,10 @@ linkedin_username: neeraj-sewani-721a39b7
 # about_title: About Me (Use this to override about section title)
 about_profile_image: ./../images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Started by programming journey as an Android developer two years ago and now from last six months working on apps following the best practices of Android like using MVVM architecture and Kotlin for coding. Moreover, in parallel to Android apps 
-  I have been learning and developing Web apps in MERN stack from last one and a half year.
+  Started my programming journey as an Android developer two years ago and now from last six
+  months developing apps following the best practices of Android like using Jetpack
+  and Kotlin for coding. Moreover, in parallel to Android apps 
+  I have been learning and developing Web apps in MERN stack from last one and a half years.
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
@@ -41,7 +44,9 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  Apart from working on my core areas I dedicate my sundays on exploring new programming languages and technologies. And apart from tech I recently discovered my interest in nutrition and fitness  
+  Apart from working on my core areas I dedicate my sundays on exploring new
+  programming languages and technologies. And apart from tech I
+  recently discovered my interest in nutrition and fitness.  
 
 # Footer
 # footer_show_references: true

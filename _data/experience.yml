@@ -1,10 +1,20 @@
 # Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+  company: Google
+  link: http://bit.ly/AAD_credentials
+  job_title: Google Associate Android Developer
+  dates: 13-June-2019 to 13-June-2022
   quote: >
-   Short description of the company (optional)
+
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    
+
+- layout: left
+  company: Ani International
+  link: http://aniinternational.org/
+  job_title: Intern
+  dates: 01-May-2019 to 30-June-2019
+  quote: >
+   
+  description: | # this will include new lines to allow paragraphs
+    Worked on a full fledged web app with a team of experienced developers using MERN stack extensively
