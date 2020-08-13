@@ -1,5 +1,17 @@
 # Project template
 - layout: top-middle
+  name: COVID-19 Tracker
+  link: https://labs.xda-developers.com/store/app/com.example.mvi_scaffolding
+  github: https://github.com/neer17/Covid-19_Tracker
+  quote: >
+    A COVID-19 Tracker to stay safe this pandemic
+  description: | # this will include new lines to allow paragraphs
+    1) COVID-19 Tracker inspired from the Arogya Setu plus more features regarding the emergency services.
+    2) Kotlin, Coroutines, MVI architecture, dependency injection, Jetpack components and other best practices are used.
+    3) Firebase and Google’s Nearby services are used for data storage and devices detection respectively.
+
+
+- layout: top-middle
   name: aChatbox
   link: http://bit.ly/aChatBox
   github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
