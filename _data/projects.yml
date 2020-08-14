@@ -6,9 +6,9 @@
   quote: >
     A COVID-19 Tracker to stay safe this pandemic
   description: | # this will include new lines to allow paragraphs
-    1) COVID-19 Tracker inspired from the Arogya Setu plus more features regarding the emergency services.
-    2) Kotlin, Coroutines, MVI architecture, dependency injection, Jetpack components and other best practices are used.
-    3) Firebase and Google’s Nearby services are used for data storage and devices detection respectively.
+    * COVID-19 Tracker inspired from the Arogya Setu plus more features regarding the emergency services.
+    * Kotlin, Coroutines, MVI architecture, dependency injection, Jetpack components and other best practices are used.
+    * Firebase and Google’s Nearby services are used for data storage and devices detection respectively.
 
 
 - layout: top-middle
@@ -18,11 +18,11 @@
   quote: >
     A chat app inspired by WhatsApp and Facebook
   description: | # this will include new lines to allow paragraphs
-    1) A chat app that is fueled by Firebase
-    2) Real-time Database, Storage, Authentication and Cloud Functions are used in backend along with enforcement of strict security rules to make it secure.
-    3) It incorporates enticing features of Facebook and WhatsApp like searching users, sending them friend requests, and sharing media, location etc. with friends.
-    4) Firebase cloud functions are used to notify users of friend requests and messages.
-    5) Its a group project with a friend <a href="#">Shiv Sharma</a>.
+    * A chat app that is fueled by Firebase
+    * Real-time Database, Storage, Authentication and Cloud Functions are used in backend along with enforcement of strict security rules to make it secure.
+    * It incorporates enticing features of Facebook and WhatsApp like searching users, sending them friend requests, and sharing media, location etc. with friends.
+    * Firebase cloud functions are used to notify users of friend requests and messages.
+    * Its a group project with a friend <a href="#">Shiv Sharma</a>.
 
 - layout: top-middle
   name: Twitter Bot
@@ -31,8 +31,8 @@
   quote: >
     A meme bot 
   description: | # this will include new lines to allow paragraphs
-    1) The bot tweets memes 24*7 and is deployed on Heroku.
-    2) It curates the best memes then filter them to check for duplicates and finally tweets them with the caption.
+    * The bot tweets memes 24*7 and is deployed on Heroku.
+    * It curates the best memes then filter them to check for duplicates and finally tweets them with the caption.
 
 - layout: top-middle
   name: Deliti - A file sharing app
@@ -41,8 +41,8 @@
   quote: >
     A File sharing app
   description: | # this will include new lines to allow paragraphs
-    1) The app can share file with any format and the recipient would get those files in their email inboxes.
-    2) React.JS is used for the front-end, Node.JS for back-end, MongoDB for database and AWS S3 as storage for files.
-    3) Authentication is enforced before sending files
+    * The app can share file with any format and the recipient would get those files in their email inboxes.
+    * React.JS is used for the front-end, Node.JS for back-end, MongoDB for database and AWS S3 as storage for files.
+    * Authentication is enforced before sending files
 
 
